@@ -34,3 +34,6 @@ Contribute
 This is just a glimpse of what I really want to make - a discussion based social network on top of ADN infrastructure
 that'll actually remove all those posts that aren't conducive to a discussion. If you're a front-end or even a back-end dev
 or are just interested in helping out financially in making this social network, get in touch with me...
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/nitinthewiz/bitter-for-chrome/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
